@@ -1,0 +1,26 @@
+
+import akka.actor.Actor
+import akka.actor.ActorRef
+import akka.actor.Props
+import scala.collection.mutable.Map
+
+
+case class ClientRequest(id: String)
+
+class ClientActor extends Actor {
+  def receive = {
+    case _ => sender() ! true
+  }
+}
+class ClientManagerActor extends Actor {
+  def receive ={ 
+    case   ClientRequest(clientId) => getClientActor(clientId) ! new ClientRequest(clientId) 
+  }
+  
+  private val actorCollection = Map[String, ActorRef]()
+  def getClientActor(clientId: String): ActorRef =
+     actorCollection.getOrElseUpdate(clientId , createClientActor(clientId))
+     
+     def createClientActor(clientId: String) : ActorRef = 
+       context.actorOf(Props[ClientActor])  
+}

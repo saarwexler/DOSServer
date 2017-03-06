@@ -1,0 +1,22 @@
+
+import akka.actor._
+
+
+case class ClientRequest(id: String)
+
+
+class ClientManagerActor extends Actor {
+  def receive = {
+    case   ClientRequest(clientId) => sendRequestToActor(clientId) 
+  }  
+  
+  def sendRequestToActor(clientId: String) {
+    val actor = getClientActor(clientId)
+    actor ! new ClientRequest(clientId)
+  }
+  
+  def getClientActor(clientId: String): Actor{
+    
+  }  
+  
+}
