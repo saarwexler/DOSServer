@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;akka-http-microservice/src/main/scala/app.scala&apos; to &apos;Main.scala&apos;" description="Rename resource &apos;app.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/scala/app.scala" name="Main.scala" stamp="1488149778223" updateReferences="true"/>
-</session>

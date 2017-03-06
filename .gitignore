@@ -1,8 +1,10 @@
 target/
+bin/
 lib_managed/
 src_managed/
 project/boot/
-
+.metadata/
+.project/
 .idea
 *.iml
 

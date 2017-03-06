@@ -1,196 +1,258 @@
-2017-02-26 23:04:32,835  WARN [Worker-6] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-26 23:04:32,837  WARN [Worker-6] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-26 23:04:33,146  WARN [Worker-6] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-26 23:04:33,146  WARN [Worker-6] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-26 23:04:33,390  WARN [Worker-3] - ScalaProject - Project akka-http-microservice has platform default sourceLevel.
-2017-02-26 23:04:33,391  WARN [Worker-3] - ScalaProject - Project akka-http-microservice runs on platform default installation.
-2017-02-26 23:04:33,719  WARN [Worker-3] - ScalaProject - Project akka-http-microservice has platform default sourceLevel.
-2017-02-26 23:04:33,719  WARN [Worker-3] - ScalaProject - Project akka-http-microservice runs on platform default installation.
-2017-02-26 23:04:35,409 ERROR [Worker-8] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-02-26 23:04:35,409 ERROR [Worker-8] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-02-26 23:04:36,103  WARN [Worker-4] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-26 23:04:36,103  WARN [Worker-4] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-26 23:04:36,279  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-26 23:04:36,279  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-26 23:09:43,743  WARN [Worker-11] - ScalaProject - Project Hello has platform default sourceLevel.
-2017-02-26 23:09:43,744  WARN [Worker-11] - ScalaProject - Project Hello runs on platform default installation.
-2017-02-26 23:09:43,806  WARN [Worker-11] - ScalaProject - Project Hello has platform default sourceLevel.
-2017-02-26 23:09:43,807  WARN [Worker-11] - ScalaProject - Project Hello runs on platform default installation.
-2017-02-26 23:09:44,366  WARN [Worker-6] - ScalaProject - Project Hello has platform default sourceLevel.
-2017-02-26 23:09:44,366  WARN [Worker-6] - ScalaProject - Project Hello runs on platform default installation.
-2017-02-26 23:59:50,130  WARN [Worker-6] - ScalaProject - Project Hello has platform default sourceLevel.
-2017-02-26 23:59:50,132  WARN [Worker-6] - ScalaProject - Project Hello runs on platform default installation.
-2017-02-26 23:59:50,151  WARN [Worker-6] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-26 23:59:50,151  WARN [Worker-6] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-26 23:59:50,289 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-02-26 23:59:50,290 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-02-26 23:59:50,405  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-26 23:59:50,406  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 00:03:52,309  WARN [Worker-5] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 00:03:52,310  WARN [Worker-5] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 00:03:52,315  WARN [Worker-5] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 00:03:52,315  WARN [Worker-5] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 00:26:58,184  WARN [Worker-9] - ScalaProject - Project slick-akka-http has platform default sourceLevel.
-2017-02-27 00:26:58,186  WARN [Worker-9] - ScalaProject - Project slick-akka-http runs on platform default installation.
-2017-02-27 00:26:59,066  WARN [Worker-10] - ScalaProject - Project slick-akka-http has platform default sourceLevel.
-2017-02-27 00:26:59,066  WARN [Worker-10] - ScalaProject - Project slick-akka-http runs on platform default installation.
-2017-02-27 00:39:50,397  WARN [Worker-3] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 00:39:50,399  WARN [Worker-3] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 00:39:50,553 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-02-27 00:39:50,554 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-02-27 00:39:50,673  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 00:39:50,674  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 00:47:49,284  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
-2017-02-27 00:47:49,585  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
-2017-02-27 10:00:05,825  WARN [Worker-9] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 10:00:05,827  WARN [Worker-9] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 10:00:06,319 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-02-27 10:00:06,320 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-02-27 10:00:06,471  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 10:00:06,472  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 10:17:01,631  WARN [Worker-1] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 10:17:01,633  WARN [Worker-1] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 10:17:01,904 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-02-27 10:17:01,905 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-02-27 10:17:01,941  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 10:17:01,942  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 10:17:09,082  WARN [Worker-5] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 10:17:09,082  WARN [Worker-5] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 10:17:09,089  WARN [Worker-5] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 10:17:09,089  WARN [Worker-5] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 10:52:49,464 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 10:52:49,464 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 10:52:49,464 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 11:45:24,162  WARN [main] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 11:45:24,163  WARN [main] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 11:45:25,298  WARN [main] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 11:45:25,298  WARN [main] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 11:45:25,425  WARN [Worker-39] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 11:45:25,425  WARN [Worker-39] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 11:45:43,381  WARN [Worker-38] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 11:45:43,381  WARN [Worker-38] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 11:54:29,013 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 11:54:29,082 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 11:54:29,082 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 11:54:29,082 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-02-27 23:13:23,498  WARN [Worker-2] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-02-27 23:13:23,505  WARN [Worker-2] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-02-27 23:13:23,664  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 23:13:23,672  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-02-27 23:13:23,743 ERROR [Worker-4] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-02-27 23:13:23,743 ERROR [Worker-4] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-02-27 23:27:27,920  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:27,922  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:39,454  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:39,454  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:45,991  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:45,992  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:47,514  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:27:47,515  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:28:06,087  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:28:06,087  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:28:06,593  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-27 23:28:06,593  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 63
-2017-02-28 00:16:23,253  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 885
-2017-02-28 00:16:23,255  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 909
-2017-02-28 00:16:27,357  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 886
-2017-02-28 00:16:27,358  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 910
-2017-03-05 21:48:16,577  WARN [Worker-0] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-03-05 21:48:16,577  WARN [Worker-0] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-03-05 21:48:16,639 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-03-05 21:48:16,639 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-03-05 21:48:27,718  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-03-05 21:48:27,718  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-03-05 22:07:06,226  WARN [main] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-03-05 22:07:06,226  WARN [main] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-03-05 22:24:02,038 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 22:24:02,038 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 22:24:02,038 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 22:55:56,054 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 22:55:56,070 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 22:55:56,070 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 22:55:56,070 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-05 23:22:17,093  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1197
-2017-03-05 23:22:17,093  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1221
-2017-03-05 23:22:21,156  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1203
-2017-03-05 23:22:21,156  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1227
-2017-03-05 23:22:24,807  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1198
-2017-03-05 23:22:24,807  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1222
-2017-03-05 23:22:26,887  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1204
-2017-03-05 23:22:26,887  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1228
-2017-03-05 23:36:38,311 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
-scala.reflect.internal.FatalError: ThisType(value modules) for sym which is not a class
-	at scala.reflect.internal.Reporting$class.abort(Reporting.scala:59)
-	at scala.reflect.internal.SymbolTable.abort(SymbolTable.scala:16)
-	at scala.reflect.internal.Types$ThisType.<init>(Types.scala:1167)
-	at scala.reflect.internal.Types$UniqueThisType.<init>(Types.scala:1187)
-	at scala.reflect.internal.Types$ThisType$.apply(Types.scala:1191)
-	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$findMirrorSymbol(Global.scala:875)
-	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:948)
-	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16$$anonfun$apply$18.apply(Global.scala:947)
-	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
-	at scala.collection.immutable.List.foreach(List.scala:381)
-	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
-	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:947)
-	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
-	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:859)
-	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
-	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+2017-03-06 04:37:46,234  WARN [Worker-5] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:37:46,236  WARN [Worker-5] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:37:46,631  WARN [Worker-5] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:37:46,631  WARN [Worker-5] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:37:46,698 ERROR [Worker-6] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-03-06 04:37:46,698 ERROR [Worker-6] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-03-06 04:37:47,716  WARN [Worker-0] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:37:47,716  WARN [Worker-0] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:38:51,996  WARN [ModalContext] - ScalaProject - Project tttt has platform default sourceLevel.
+2017-03-06 04:38:51,996  WARN [ModalContext] - ScalaProject - Project tttt runs on platform default installation.
+2017-03-06 04:38:52,698  WARN [Worker-5] - ScalaProject - Project tttt has platform default sourceLevel.
+2017-03-06 04:38:52,698  WARN [Worker-5] - ScalaProject - Project tttt runs on platform default installation.
+2017-03-06 04:45:05,325  WARN [main] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:45:05,325  WARN [main] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:45:32,472  WARN [Java indexing] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:45:32,472  WARN [Java indexing] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:56:00,528  WARN [main] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:56:00,544  WARN [main] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:56:00,544  WARN [main] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 04:56:00,544  WARN [main] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 04:56:07,167 ERROR [Worker-0] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-03-06 04:56:07,167 ERROR [Worker-0] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-03-06 05:01:54,988  WARN [main] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 05:01:54,989  WARN [main] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 05:01:54,993  WARN [main] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 05:01:54,994  WARN [main] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 05:02:01,339 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-03-06 05:02:01,339 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-03-06 05:02:01,407  WARN [Worker-4] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 05:02:01,407  WARN [Worker-4] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 05:03:15,819  WARN [Java indexing] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 05:03:15,835  WARN [Java indexing] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 05:07:18,891  WARN [main] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 05:07:18,891  WARN [main] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 05:07:26,487  WARN [Java indexing] - ScalaProject - Project Client has platform default sourceLevel.
+2017-03-06 05:07:26,487  WARN [Java indexing] - ScalaProject - Project Client runs on platform default installation.
+2017-03-06 05:42:40,332  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for Client, setting default to 2.11.
+2017-03-06 05:53:01,351 ERROR [Worker-5] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-03-06 05:53:01,352 ERROR [Worker-5] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-03-06 05:58:58,212 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 05:58:58,215 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 05:59:40,310 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 05:59:40,310 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 05:59:40,310 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 06:13:05,540  WARN [Worker-19] - ScalaProject - Project DOSServer has platform default sourceLevel.
+2017-03-06 06:13:05,540  WARN [Worker-19] - ScalaProject - Project DOSServer runs on platform default installation.
+2017-03-06 06:13:05,718  WARN [Worker-19] - ScalaProject - Project DOSServer has platform default sourceLevel.
+2017-03-06 06:13:05,718  WARN [Worker-19] - ScalaProject - Project DOSServer runs on platform default installation.
+2017-03-06 06:13:06,119  WARN [Worker-13] - ScalaProject - Project DOSServer has platform default sourceLevel.
+2017-03-06 06:13:06,119  WARN [Worker-13] - ScalaProject - Project DOSServer runs on platform default installation.
+2017-03-06 06:13:15,497  WARN [main] - ScalaProject - Project DOSServer has platform default sourceLevel.
+2017-03-06 06:13:15,497  WARN [main] - ScalaProject - Project DOSServer runs on platform default installation.
+2017-03-06 07:20:35,298 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:20:35,299 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:20:35,299 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:52:10,793 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:52:10,793 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:52:10,793 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:54:51,990 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:54:51,990 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:54:51,990 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 07:55:11,748  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1265
+2017-03-06 07:55:27,030  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1265
+2017-03-06 07:55:29,565  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1265
+2017-03-06 08:08:06,918  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1438
+2017-03-06 08:08:08,990  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1443
+2017-03-06 08:09:08,064  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1443
+2017-03-06 08:09:08,604  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1443
+2017-03-06 08:09:18,170  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1433
+2017-03-06 08:09:18,710  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1433
+2017-03-06 08:09:25,785  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1431
+2017-03-06 08:09:26,318  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1431
+2017-03-06 08:09:32,884  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1429
+2017-03-06 08:09:33,416  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1429
+2017-03-06 08:10:16,556  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1430
+2017-03-06 08:10:19,622  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1422
+2017-03-06 08:10:20,152  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1422
+2017-03-06 08:10:21,716  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1422
+2017-03-06 08:10:22,779  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1422
+2017-03-06 08:17:00,184 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:963)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:812)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
 	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
 	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
 	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
 	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
-	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
-	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:842)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
 	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
 	at scala.util.control.Breaks.breakable(Breaks.scala:38)
 	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
-	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
-2017-03-05 23:56:16,147  WARN [main] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-03-05 23:56:16,147  WARN [main] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-03-06 00:01:31,885 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-06 00:01:31,916 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-06 00:01:31,916 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-06 00:01:31,916 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
-2017-03-06 03:39:25,732  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 718
-2017-03-06 03:39:25,732  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 703
-2017-03-06 03:47:36,684  WARN [ModalContext] - ScalaProject - Project Hello has platform default sourceLevel.
-2017-03-06 03:47:36,684  WARN [ModalContext] - ScalaProject - Project Hello runs on platform default installation.
-2017-03-06 04:04:15,310  WARN [Worker-1] - ScalaProject - Project SimpleClient has platform default sourceLevel.
-2017-03-06 04:04:15,311  WARN [Worker-1] - ScalaProject - Project SimpleClient runs on platform default installation.
-2017-03-06 04:04:19,562  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DOSServer has platform default sourceLevel.
-2017-03-06 04:04:19,563  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project DOSServer runs on platform default installation.
-2017-03-06 04:04:23,634  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.sourceLevel was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-03-06 04:04:23,636  WARN [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Preference scala.compiler.installation was uninitialized for akka-http-microservice, setting default to 2.11.
-2017-03-06 04:04:23,762 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Error thrown while initializing the presentation compiler.
-Java Model Exception: Java Model Status [DOSServer does not exist]
-	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:556)
-	at org.eclipse.jdt.internal.core.JavaModelManager.getPerProjectInfoCheckExistence(JavaModelManager.java:2378)
-	at org.eclipse.jdt.internal.core.JavaProject.getPerProjectInfo(JavaProject.java:1909)
-	at org.eclipse.jdt.internal.core.JavaProject.getRawClasspath(JavaProject.java:1931)
-	at org.scalaide.core.internal.project.ClasspathManagement$class.jdkPaths(ClasspathManagement.scala:147)
-	at org.scalaide.core.internal.project.ScalaProject.jdkPaths(ScalaProject.scala:150)
-	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaClasspath(ClasspathManagement.scala:134)
-	at org.scalaide.core.internal.project.ScalaProject.scalaClasspath(ScalaProject.scala:150)
-	at org.scalaide.core.internal.project.ScalaProject.setupCompilerClasspath(ScalaProject.scala:498)
-	at org.scalaide.core.internal.project.ScalaProject.initializeCompilerSettings(ScalaProject.scala:485)
-	at org.scalaide.core.internal.project.ScalaProject.org$scalaide$core$internal$project$ScalaProject$$prepareCompilerSettings(ScalaProject.scala:438)
-	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:162)
-	at org.scalaide.core.internal.project.ScalaProject$$anonfun$5.apply(ScalaProject.scala:162)
-	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.liftedTree1$1(PresentationCompilerProxy.scala:154)
-	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.create(PresentationCompilerProxy.scala:153)
-	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.initialize(PresentationCompilerProxy.scala:118)
-	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.obtainPc$1(PresentationCompilerProxy.scala:80)
-	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:100)
-	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:58)
-	at org.scalaide.ui.internal.editor.outline.ScalaOutlineReconcilingStrategy.updateOutlineView(ScalaOutlineReconcilingStrategy.scala:34)
-	at org.scalaide.ui.internal.editor.outline.ScalaOutlineReconcilingStrategy.initialReconcile(ScalaOutlineReconcilingStrategy.scala:27)
-	at org.eclipse.jdt.internal.ui.text.CompositeReconcilingStrategy.initialReconcile(CompositeReconcilingStrategy.java:119)
-	at org.eclipse.jface.text.reconciler.MonoReconciler.initialProcess(MonoReconciler.java:95)
-	at org.eclipse.jface.text.reconciler.AbstractReconciler$BackgroundThread.run(AbstractReconciler.java:174)
-2017-03-06 04:04:23,825 ERROR [Worker-5] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
-2017-03-06 04:04:23,825 ERROR [Worker-5] - System.err - log4j:WARN Please initialize the log4j system properly.
-2017-03-06 04:05:01,994  WARN [ModalContext] - ScalaProject - Project akka-http-microservice has platform default sourceLevel.
-2017-03-06 04:05:01,994  WARN [ModalContext] - ScalaProject - Project akka-http-microservice runs on platform default installation.
-2017-03-06 04:05:02,074  WARN [ModalContext] - ScalaProject - Project akka-http-microservice has platform default sourceLevel.
-2017-03-06 04:05:02,075  WARN [ModalContext] - ScalaProject - Project akka-http-microservice runs on platform default installation.
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:331)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2670)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2627)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2512)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2524)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3082)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3068)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2974)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2981)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2945)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2830)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2766)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2747)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3029)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3227)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3219)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3233)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:658)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:564)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-03-06 08:17:00,199 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:963)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:812)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$scopeMembers(Global.scala:1028)
+	at scala.tools.nsc.interactive.Global$$anonfun$getScopeCompletion$2.apply(Global.scala:985)
+	at scala.tools.nsc.interactive.Global$$anonfun$getScopeCompletion$2.apply(Global.scala:985)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getScopeCompletion(Global.scala:985)
+	at scala.tools.nsc.interactive.CompilerControl$AskScopeCompletionItem.apply$mcV$sp(CompilerControl.scala:357)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:331)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2670)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2627)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2512)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2524)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3082)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3068)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2974)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2981)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2945)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2830)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2766)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2747)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3029)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3227)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3219)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3233)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:658)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:564)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-03-06 08:31:10,101 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 08:31:10,101 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 08:31:10,101 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 08:42:38,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 855
+2017-03-06 08:42:38,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 855
+2017-03-06 08:42:38,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 915
+2017-03-06 08:42:38,166  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 915
+2017-03-06 08:43:33,690  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 882
+2017-03-06 08:43:35,255  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 884
+2017-03-06 08:43:36,294  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 885
+2017-03-06 08:44:58,593  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 956
+2017-03-06 08:51:11,030  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 992
+2017-03-06 08:51:14,074  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 994
+2017-03-06 08:51:15,608  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 996
+2017-03-06 08:51:17,178  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 997
+2017-03-06 08:51:54,195  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1022
+2017-03-06 08:51:56,243  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1025
+2017-03-06 09:04:31,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 09:04:31,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-03-06 09:04:31,152 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException

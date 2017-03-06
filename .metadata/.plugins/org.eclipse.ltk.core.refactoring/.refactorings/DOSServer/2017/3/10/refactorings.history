@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;Hello/src/main/scala/Main.scala&apos; to &apos;Server.scala&apos;" description="Rename resource &apos;Main.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/scala/Main.scala" name="Server.scala" stamp="1488750810877" updateReferences="true"/>
-</session>
