@@ -1,5 +1,0 @@
-INDEX VERSION 1.129+C:\Users\Saar\Scala\drill\.metadata\.plugins\org.eclipse.jdt.core
-723591815.index
-137624701.index
-2992480525.index
-3445558963.index
